@@ -1,6 +1,6 @@
 .point {
     position: absolute;
-    background: red;
+ 
     height: 30px;
     width: 30px;
     display: flex;
